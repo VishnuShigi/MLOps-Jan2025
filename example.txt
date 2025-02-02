@@ -1,1 +1,1 @@
-Entire content replaced as part of point e
+The inital `removed some content and modified the example.txt file` assignment 1
