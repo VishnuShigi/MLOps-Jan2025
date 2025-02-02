@@ -1,1 +1,1 @@
-The inital content of example file for assignment 1
+The inital `removed some content and modified the example.txt file` assignment 1
